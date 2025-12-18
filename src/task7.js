@@ -6,6 +6,6 @@ const arr = [
   
   // Type your code below this line!
   
-  
+  console.log(arr);
   
   // Type your code above this line!
